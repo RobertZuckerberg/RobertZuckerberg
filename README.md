@@ -9,4 +9,5 @@ I'm Robert, a CV learner.
 - 🏓️ Good at ball games, especially Ping Pong
 - ✍️  Write [blogs](https://robertzuckerberg.github.io/) sometimes
 - 🎨 Learning to paint with iPad recently
-![Robert](https://github-readme-stats.vercel.app/api?username=RobertZuckerberg)
+
+![](https://github-readme-stats.vercel.app/api?username=RobertZuckerberg)
